@@ -1,0 +1,3 @@
+rootProject.name="s-c-contract-sample"
+include 'applications:sample-consumer'
+include 'applications:sample-producer'
